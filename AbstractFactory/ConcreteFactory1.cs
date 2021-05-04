@@ -1,15 +1,15 @@
-namespace AbstractFactory
+namespace AbstractFactoryExample
 {
     class ConcreteFactory1 : IAbstractFactory
     {
-        public IAbstractProductA createProductA()
+        public IAbstractProductA CreateProductA()
         {
-            return new concreteProductA2();
+            return new ConcreteProductA2();
         }
 
-        public IAbstractProductB createProductB()
+        public IAbstractProductB CreateProductB()
         {
-            throw new System.NotImplementedException();
+            return new ConcreteProductB2();
         }
     }
 }

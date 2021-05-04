@@ -1,4 +1,4 @@
-namespace Facade
+namespace FacadeExample
 {
     class Subsystem1
     {
@@ -7,7 +7,7 @@ namespace Facade
             return "Subsystem 1: Ready!\n";
         }
 
-        public string operatorN()
+        public string operationN()
         {
             return "Subsystem1: Go!\n";
         }

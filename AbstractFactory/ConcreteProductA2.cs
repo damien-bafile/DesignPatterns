@@ -1,10 +1,9 @@
-namespace AbstractFactory
+namespace AbstractFactoryExample
 {
-    class concreteProductA2 : IAbstractProductA
+    class ConcreteProductA2 : IAbstractProductA
     {
         public string UsefulFunctionA()
         {
-            throw new System.NotImplementedException();
-        }
+            return "The result of the product A2.";        }
     }
 }

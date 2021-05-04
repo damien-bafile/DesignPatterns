@@ -1,7 +1,10 @@
-namespace AbstractFactory
+namespace AbstractFactoryExample
 {
-    public class ConcreteProductA1
+    public class ConcreteProductA1 : IAbstractProductA
     {
-        
+        public string UsefulFunctionA()
+        {
+            return "The result of the product A1.";
+        }
     }
 }
