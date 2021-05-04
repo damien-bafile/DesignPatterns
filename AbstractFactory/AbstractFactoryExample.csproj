@@ -7,4 +7,12 @@
         <RootNamespace>AbstractFactoryExample</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="obj\AbstractFactoryExample.csproj.nuget.dgspec.json" />
+      <Content Include="obj\Debug\net5.0\AbstractFactoryExample.assets.cache" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+    </ItemGroup>
+
 </Project>

@@ -3,7 +3,14 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
-        <RootNamespace>Facade</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="obj\Debug\net5.0\FacadeExample.assets.cache" />
+      <Content Include="obj\FacadeExample.csproj.nuget.dgspec.json" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+    </ItemGroup>
 
 </Project>
