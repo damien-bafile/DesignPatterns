@@ -1,0 +1,6 @@
+namespace Command
+{
+    class Receiver
+    {
+    }
+}
