@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample.deps.json
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample.dll
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ref/ObserverExample.dll
+/home/daimyo/Dev/DesignPatterns/ObserverExample/bin/Debug/net5.0/ObserverExample.pdb
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.csproj.AssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.dll
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ref/ObserverExample.dll
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.pdb
+/home/daimyo/Dev/DesignPatterns/ObserverExample/obj/Debug/net5.0/ObserverExample.genruntimeconfig.cache

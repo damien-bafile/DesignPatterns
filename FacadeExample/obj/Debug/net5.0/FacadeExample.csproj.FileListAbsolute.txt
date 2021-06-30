@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample.deps.json
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample.dll
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/ref/FacadeExample.dll
+/home/daimyo/Dev/DesignPatterns/FacadeExample/bin/Debug/net5.0/FacadeExample.pdb
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.dll
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/ref/FacadeExample.dll
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.pdb
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.genruntimeconfig.cache
+/home/daimyo/Dev/DesignPatterns/FacadeExample/obj/Debug/net5.0/FacadeExample.csproj.AssemblyReference.cache

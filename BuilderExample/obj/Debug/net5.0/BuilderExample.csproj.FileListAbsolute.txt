@@ -1,0 +1,15 @@
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample.deps.json
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample.dll
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/ref/BuilderExample.dll
+/home/daimyo/Dev/DesignPatterns/BuilderExample/bin/Debug/net5.0/BuilderExample.pdb
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.dll
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/ref/BuilderExample.dll
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.pdb
+/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/Debug/net5.0/BuilderExample.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kI0GlUxIkD+PWRX5xWYTTQFgl8blqLgdmo1DuqoYNKQlPpHh03zhd7QqohpeISRAXDUxT8VPeUUSIODs+NPoDA==",
+  "dgSpecHash": "Uhiv3BwZ83nN2nPMRW7js4W9Hpww8SgPkOhAbNIkSFwyvhDFsBP7UZwZoR+ONAK39zz2Jk0pradpCXjUjhqfdQ==",
   "success": true,
-  "projectFilePath": "/home/daimyo/Dev/C#/DesignPatterns/SingletonExample/SingletonExample.csproj",
+  "projectFilePath": "/home/daimyo/Dev/DesignPatterns/SingletonExample/SingletonExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

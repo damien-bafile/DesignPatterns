@@ -1,6 +1,6 @@
 using System;
 
-namespace Command
+namespace CommandExample
 {
     class SimpleCommand:ICommand
     {        

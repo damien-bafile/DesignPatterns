@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample.deps.json
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample.dll
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/ref/CommandExample.dll
+/home/daimyo/Dev/DesignPatterns/CommandExample/bin/Debug/net5.0/CommandExample.pdb
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.csproj.AssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.dll
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/ref/CommandExample.dll
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.pdb
+/home/daimyo/Dev/DesignPatterns/CommandExample/obj/Debug/net5.0/CommandExample.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample.deps.json
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample.dll
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactoryExample.dll
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactoryExample.pdb
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.csproj.AssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.dll
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactoryExample.dll
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.pdb
+/home/daimyo/Dev/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactoryExample.genruntimeconfig.cache

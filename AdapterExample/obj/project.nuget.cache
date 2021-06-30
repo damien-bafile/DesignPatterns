@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8yLHFZuHQJYlqBLMvSOKVC3aC+FIkD7cfQZRzP3Q8JaM54ze+vDbNjcjzUi5jdCjjq5N+3gdWHArDvm5zKXVQg==",
+  "dgSpecHash": "23XTiQHUIwbFx2/lOhR8jNJ4dnYGP7Dh0SQe+sUP+Hjhd5HieabdVGJX1plYZ3ynbzCTxPly93681YxzehqMXQ==",
   "success": true,
-  "projectFilePath": "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/AdapterExample.csproj",
+  "projectFilePath": "/home/daimyo/Dev/DesignPatterns/AdapterExample/AdapterExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

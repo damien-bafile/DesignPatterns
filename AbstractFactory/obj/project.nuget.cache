@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GLEGNyBdIL5fvFeVS44ThakHkRvl3M4Ir2+6de5kUaU1Kh7xItALGE3mNNFMMxyoviKrlXCvoVhwwl3XLUWtA==",
+  "dgSpecHash": "mvVgAUL3thvNB29gIDdx4a+8jgh8q7GL8GYX0B6YBh2HFljScNHGMclTuTVjM1LClZ9gvdJ/s55K+ZpuQIvgTw==",
   "success": true,
-  "projectFilePath": "/home/daimyo/Dev/C#/DesignPatterns/AbstractFactory/AbstractFactoryExample.csproj",
+  "projectFilePath": "/home/daimyo/Dev/DesignPatterns/AbstractFactory/AbstractFactoryExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

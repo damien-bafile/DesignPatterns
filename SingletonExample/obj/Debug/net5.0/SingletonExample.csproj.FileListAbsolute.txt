@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample.deps.json
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample.dll
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/ref/SingletonExample.dll
+/home/daimyo/Dev/DesignPatterns/SingletonExample/bin/Debug/net5.0/SingletonExample.pdb
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.dll
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/ref/SingletonExample.dll
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.pdb
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.genruntimeconfig.cache
+/home/daimyo/Dev/DesignPatterns/SingletonExample/obj/Debug/net5.0/SingletonExample.csproj.AssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/AdapterExample.csproj": {}
+    "/home/daimyo/Dev/DesignPatterns/AdapterExample/AdapterExample.csproj": {}
   },
   "projects": {
-    "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/AdapterExample.csproj": {
+    "/home/daimyo/Dev/DesignPatterns/AdapterExample/AdapterExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/AdapterExample.csproj",
+        "projectUniqueName": "/home/daimyo/Dev/DesignPatterns/AdapterExample/AdapterExample.csproj",
         "projectName": "AdapterExample",
-        "projectPath": "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/AdapterExample.csproj",
+        "projectPath": "/home/daimyo/Dev/DesignPatterns/AdapterExample/AdapterExample.csproj",
         "packagesPath": "/home/daimyo/.nuget/packages/",
-        "outputPath": "/home/daimyo/Dev/C#/DesignPatterns/AdapterExample/obj/",
+        "outputPath": "/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daimyo/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

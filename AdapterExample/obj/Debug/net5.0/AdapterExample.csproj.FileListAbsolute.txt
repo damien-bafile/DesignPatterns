@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample.deps.json
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample.dll
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/ref/AdapterExample.dll
+/home/daimyo/Dev/DesignPatterns/AdapterExample/bin/Debug/net5.0/AdapterExample.pdb
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.csproj.AssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.dll
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/ref/AdapterExample.dll
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.pdb
+/home/daimyo/Dev/DesignPatterns/AdapterExample/obj/Debug/net5.0/AdapterExample.genruntimeconfig.cache

@@ -1,6 +1,7 @@
 using System;
+using CommandExample;
 
-namespace Command
+namespace CommandExample
 {
     public class ComplexCommand : ICommand
     {

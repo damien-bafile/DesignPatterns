@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample.deps.json
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample.dll
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/ref/StateMachineExample.dll
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/bin/Debug/net5.0/StateMachineExample.pdb
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.dll
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/ref/StateMachineExample.dll
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.pdb
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.genruntimeconfig.cache
+/home/daimyo/Dev/DesignPatterns/StateMachineExample/obj/Debug/net5.0/StateMachineExample.csproj.AssemblyReference.cache

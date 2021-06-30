@@ -1,0 +1,12 @@
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.csprojAssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/StateExample/bin/Debug/net5.0/StateExample.deps.json
+/home/daimyo/Dev/DesignPatterns/StateExample/bin/Debug/net5.0/StateExample.dll
+/home/daimyo/Dev/DesignPatterns/StateExample/bin/Debug/net5.0/ref/StateExample.dll
+/home/daimyo/Dev/DesignPatterns/StateExample/bin/Debug/net5.0/StateExample.pdb
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.dll
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/ref/StateExample.dll
+/home/daimyo/Dev/DesignPatterns/StateExample/obj/Debug/net5.0/StateExample.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daimyo/Dev/C#/DesignPatterns/BuilderExample/BuilderExample.csproj",
+      "projectUniqueName": "/home/daimyo/Dev/DesignPatterns/BuilderExample/BuilderExample.csproj",
       "projectName": "BuilderExample",
-      "projectPath": "/home/daimyo/Dev/C#/DesignPatterns/BuilderExample/BuilderExample.csproj",
+      "projectPath": "/home/daimyo/Dev/DesignPatterns/BuilderExample/BuilderExample.csproj",
       "packagesPath": "/home/daimyo/.nuget/packages/",
-      "outputPath": "/home/daimyo/Dev/C#/DesignPatterns/BuilderExample/obj/",
+      "outputPath": "/home/daimyo/Dev/DesignPatterns/BuilderExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daimyo/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }

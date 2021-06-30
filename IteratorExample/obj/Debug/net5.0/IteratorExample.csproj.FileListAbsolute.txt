@@ -1,0 +1,16 @@
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample.deps.json
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample.runtimeconfig.json
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample.runtimeconfig.dev.json
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample.dll
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/ref/IteratorExample.dll
+/home/daimyo/Dev/DesignPatterns/IteratorExample/bin/Debug/net5.0/IteratorExample.pdb
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.csproj.AssemblyReference.cache
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.AssemblyInfoInputs.cache
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.AssemblyInfo.cs
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.csproj.CoreCompileInputs.cache
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.dll
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/ref/IteratorExample.dll
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.pdb
+/home/daimyo/Dev/DesignPatterns/IteratorExample/obj/Debug/net5.0/IteratorExample.genruntimeconfig.cache

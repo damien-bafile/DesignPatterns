@@ -1,6 +1,7 @@
 ﻿using System;
+using CommandExample;
 
-namespace Command
+namespace CommandExample
 {
     class Program
     {
